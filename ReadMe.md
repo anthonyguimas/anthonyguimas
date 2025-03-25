@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 doing a bachelor's degree in software engineering and studying back-end.
+🔭 RPA developer focused on Typescript, Javascript, NodeJs for the development of RPA solutions
+(Robotic Process Automation).
 
 
 # 💻 Tech Stack:
